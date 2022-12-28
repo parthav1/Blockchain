@@ -1,0 +1,1 @@
+This is a simple implementation of a blockchain. There are some things missing, like finding a real proof of work and calculating the proper previous hash and all that computationally heavy stuff, but this can be built upon to be more efficient and realistic. 
